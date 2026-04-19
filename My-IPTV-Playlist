@@ -1,0 +1,58 @@
+#EXTM3U
+#PLAYLIST: Filtered & Organized
+
+## --- BANGLA NEWS & GENERAL ---
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",সময় টিভি
+[span_3](start_span)https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8[span_3](end_span)
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",একাত্তর টিভি
+[span_4](start_span)https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8[span_4](end_span)
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",চ্যানেল 24
+[span_5](start_span)https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8[span_5](end_span)
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",যমুনা টিভি
+[span_6](start_span)https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8[span_6](end_span)
+
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="BANGLA",এনটিভি
+[span_7](start_span)https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8[span_7](end_span)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1200px-Logo_of_Deepto_TV.svg.png" group-title="BANGLA",দ্বীপ্ত টি়ভি
+[span_8](start_span)https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8[span_8](end_span)
+
+## --- SPORTS (LIVE) ---
+#EXTINF:-1 group-title="Sports",T Sports HD
+[span_9](start_span)https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8[span_9](end_span)
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="Sports",DD Sports
+[span_10](start_span)https://cdn-6.pishow.tv/live/13/master.m3u8[span_10](end_span)
+
+#EXTINF:-1 group-title="Football",Bein Sports 1
+[span_11](start_span)https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8[span_11](end_span)
+
+## --- MOVIES & ENTERTAINMENT ---
+#EXTINF:-1 group-title="Movies",Mardaani 3 (2026)
+[span_12](start_span)http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4[span_12](end_span)
+
+#EXTINF:-1 group-title="Bangla Movies",Antarjal (2023)
+[span_13](start_span)http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4[span_13](end_span)
+
+#EXTINF:-1 group-title="Star Channels",Star Jalsha HD
+[span_14](start_span)https://tvsen3.aynascope.net/n64PH4YL/index.m3u8[span_14](end_span)
+
+## --- KIDS & CARTOONS ---
+#EXTINF:-1 group-title="Kids",Gopal Bhar 24/7
+[span_15](start_span)https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8[span_15](end_span)
+
+#EXTINF:-1 group-title="Kids",Doraemon
+[span_16](start_span)https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8[span_16](end_span)
+
+#EXTINF:-1 group-title="Kids",Motu Patlu
+[span_17](start_span)https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8[span_17](end_span)
+
+## --- RELIGIOUS ---
+#EXTINF:-1 group-title="ISLAMIC",Saudi Quran
+[span_18](start_span)https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8[span_18](end_span)
+
+#EXTINF:-1 group-title="ISLAMIC",Madani Tv
+[span_19](start_span)https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8[span_19](end_span)
